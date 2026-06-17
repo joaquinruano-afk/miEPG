@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv generator-info-name="miEPG v3.6" generator-info-url="https://github.com/davidmuma/miEPG">
   <channel id="La 1">
-    <display-name>La 1 SD</display-name>
+    <display-name>La1 SD</display-name>
     <display-name>La 1 HD</display-name>
     <display-name>La 1 4K</display-name>
     <display-name>La 1 Full HD</display-name>
