@@ -1,3 +1,18 @@
-https://raw.githubusercontent.com/davidmuma/EPG_dobleM/master/guiatv.xml
-https://epgshare01.online/epgshare01/epg_ripper_MX1.xml.gz
-https://epgshare01.online/epgshare01/epg_ripper_US1.xml.gz
+<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="miEPG v3.6" generator-info-url="https://github.com/davidmuma/miEPG">
+  <channel id="La 1">
+    <display-name>La 1 SD</display-name>
+    <display-name>La 1 HD</display-name>
+    <display-name>La 1 4K</display-name>
+    <display-name>La 1 Full HD</display-name>
+    <display-name>La 1 UHD</display-name>
+    <icon src="https://upload.wikimedia.org/wikipedia/commons/d/d3/Nuevo_Logo_de_TVE_UHD_en_2022_%2B_2023_%2B_2024.png" />
+  </channel>
+  <channel id="La 2 Super Full HD 8k">
+    <display-name>La 2 Super Full HD 8k SD</display-name>
+    <display-name>La 2 Super Full HD 8k HD</display-name>
+    <display-name>La 2 Super Full HD 8k 4K</display-name>
+    <display-name>La 2 Super Full HD 8k Full HD</display-name>
+    <display-name>La 2 Super Full HD 8k UHD</display-name>
+    <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/La%202.png" />
+  </channel>
