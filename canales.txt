@@ -1,4 +1,4 @@
-La 1 HD,La 1,ES: LA1,ES:LA1,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/La%201.png
+La 1 HD,La 1,ES: LA1,ES: LA 1,ES:LA1,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/La%201.png
 La 2,La 2,LA2,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/La%202.png
 Antena 3 HD,Antena 3,ANTENA 3,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Antena%203.png
 Cuatro HD,Cuatro,CUATRO,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Cuatro.png
