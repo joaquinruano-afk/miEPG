@@ -6,7 +6,7 @@
     <display-name>La 1 4K</display-name>
     <display-name>La 1 Full HD</display-name>
     <display-name>La 1 UHD</display-name>
-    <icon src="ES: LA1" />
+    <icon src="ES: LA1"</display-name> />
   </channel>
   <channel id="La 2">
     <display-name>La 2 SD</display-name>
